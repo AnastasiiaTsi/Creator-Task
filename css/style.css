@@ -3,6 +3,24 @@
     #about, .tm-footer, .blocks, .carousel, .form-group, .img-fluid, .btn, .tm-section-title, .padding-medium h2, .padding-medium li{
         display: none;
     }
-    
+    /* Task1 End */
+
+    /* task3 */
+    .tm-section-description::first-letter{
+       color: #87CEFA;
+       font-size: 30px;
+    }
+    .tm-banner-text::first-letter{
+      color: #87CEFA;
+      font-size: 30px;
+    }
+    /* Task3 End */
+
+    /* Task4 */
+    #home .tm-banner{
+        box-shadow: 2px 10px #333;
+    }
+    /* Task4 end */
 }
-/* Task1 End */
+
+
