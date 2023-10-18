@@ -1,0 +1,8 @@
+/* Task 1 */
+@media print {
+    #about, .tm-footer, .blocks, .carousel, .form-group, .img-fluid, .btn, .tm-section-title, .padding-medium h2, .padding-medium li{
+        display: none;
+    }
+    
+}
+/* Task1 End */
